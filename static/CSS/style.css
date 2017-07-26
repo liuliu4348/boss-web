@@ -1,0 +1,62 @@
+html {
+    width:100%;
+}
+body {
+    width:100%;
+    text-align: center;
+    height: 700px;
+}
+
+.tr td {
+    text-align:center;
+}
+
+th {
+    text-align:center;
+}
+
+.error
+{
+    color:red;
+    font-size:13px;
+    height: 34px;
+    overflow-y: auto;
+}
+
+#div1 {
+    margin-top: 35px;
+    margin-bottom: 5px;
+    text-align:center;
+}
+
+#div2 {
+    height: 35px;
+    text-align:center;
+}
+
+#div3 {
+    overflow-y: auto;
+    /*height: 500px;*/
+    text-align:center;
+}
+
+#footer {
+    height: 40px;
+    line-height: 40px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: Arial;
+    color:#DCDCDC;
+    font-size: 12px;
+    letter-spacing: 1px;
+    -moz-user-select:none;/*火狐*/
+    -webkit-user-select:none;/*webkit浏览器*/
+    -ms-user-select:none;/*IE10*/
+    -khtml-user-select:none;/*早期浏览器*/
+    user-select:none;
+}
+
+
+
